@@ -1,0 +1,72 @@
+console.log("Hello I am conditional tutorial");
+
+//alert("you can do'it");
+
+/*console.log(hy)
+console.log(by)
+console.log(hy)
+console.log(by)*/
+
+//55#
+/*let a = 5;
+//a = a + 1
+let b = 8;
+let c = "nayan";
+let _a ="Nayan";
+//var 55a ="Rohan" ;//not allowed
+
+//console.log( a + b + 8)
+//console.log(typeof a,typeof b,typeof c)
+{
+    let a = 66;
+    console.log(a)
+}
+console.log(a)
+//const a1 = 6;
+//a1 = a1 + 1;
+//Not Allowed because a1 is constant
+
+let x = "Harry Bhai";
+let y = 22 ;
+let z = 3.55 ;
+const p = true;
+let q = undefined;
+let r = null;
+
+
+//console.log(x , y , z, p, q, r)
+
+console.log(typeof x ,typeof y ,typeof z ,typeof p ,typeof q ,typeof r)
+
+let o ={
+    name:"nayan",
+    "job code":2004,
+    "is_handsome":true,
+}
+console.log(o);
+o.salary = "50rs";
+console.log(o);
+o.salary = "5000rs";
+console.log(o);*/
+
+
+
+
+//54#
+/*
+    console.log("hy......")
+    console.log("kon......")
+    console.log("kya......")
+    console.log("by......")
+
+    var a =prompt("Enter Your Name")
+    var isTrue =confirm("you are really want to exit the  web site")
+
+    if (isTrue){
+    console.log("your exit the page")
+    }
+    else{
+    console.log("you are in the page")
+    }
+    console.log("Your Name" + a )
+*/

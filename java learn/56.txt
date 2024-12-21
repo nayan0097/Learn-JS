@@ -1,0 +1,50 @@
+console.log("HELLO I AM NAYAN SINGH RAO")
+
+let age =0;
+//let grace = 2;
+let a = 2;
+let b = 8;
+
+a = 6;
+b = 8;
+let c = a > b ? (a - b) : (b - a);
+/*
+translates to:
+if(a>b){
+     let c = a - b;
+}
+else{
+     let c = a - b;
+}
+*/
+/*if(age==18) {
+    console.log("you can drive ");
+}
+
+else if (age == 0){
+    console.log("Are You Kding")
+}
+
+else{
+    console.log("you cannot drive");
+}*/
+
+
+
+/* 
+age +=grace;
+
+console.log(age)
+console.log(age + grace)
+console.log(age - grace)
+console.log(age * grace)
+console.log(age / grace)
+console.log(age ** grace)
+console.log(age % grace)*/
+
+/*if((age+grace)>18) {
+    console.log("you can drive ");
+}
+else{
+    console.log("you cannot drive");
+}*/

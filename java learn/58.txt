@@ -1,0 +1,37 @@
+function nice(name) {
+    console.log("Hey " + name + " you are in 10th class!" )
+    console.log("Hey " + name + " you are good!" )
+    console.log("Hey " + name + " your T-shirt is nice!" )
+    console.log("Hey " + name + " you are nice!" )
+}
+
+
+function sum(a, b, c=5) {
+    return a + b+ c
+    // console.log(a + b)
+}
+
+result1 = sum(10, 20)
+result2 = sum(12, 205)
+result3 = sum(19, 209, 12)
+
+console.log("The sum of this number is " + result1)
+console.log("The sum of this number is " + result2)
+console.log("The sum of this number is " + result3)
+
+
+const func1 = (n)=>{
+    console.log("Hey i am not goo at this movment",n)
+}
+func1(10);
+func1(20);  
+func1(30);
+
+//nice("Devid Singh Rao")
+//nice("shivam")
+//nice("Ujjwal")
+
+//console.log("How are you Nayan Singh Rao")
+//console.log("How are you Good")
+//console.log("How are you bro")
+//console.log("How are you way down we go")
